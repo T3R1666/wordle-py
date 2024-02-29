@@ -1,1 +1,1 @@
-# wordle-py
+# wordle sin API
